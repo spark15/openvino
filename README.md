@@ -1,3 +1,5 @@
+## This is a fork version(2026/1) of OpenVINO. and see custom folder to see changes.
+
 <div align="center">
 <img src="docs/dev/assets/openvino-logo-purple-black.svg" width="400px">
 
