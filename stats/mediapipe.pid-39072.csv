@@ -1,0 +1,43 @@
+domain,name,min,max,avg,total,count
+OpenCVTrace,"void __cdecl cv::utils::logging::LogTagManager::assign(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,struct cv::utils::logging::LogTag *)",14100,14100,14100.0,14100,1
+OpenCVTrace,"struct cv::utils::logging::LogTag *__cdecl cv::utils::logging::LogTagManager::get(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)",1500,1500,1500.0,1500,1
+OpenCVTrace,"__cdecl cv::VideoCapture::VideoCapture(int,int)",577040500,577040500,577040500.0,577040500,1
+OpenCVTrace,bool __cdecl cv::VideoCapture::read(const class cv::_OutputArray &),634300,114815300,1318255.9113300492,535211900,406
+OpenCVTrace,__cdecl cv::VideoCapture::~VideoCapture(void),1700,1700,1700.0,1700,1
+OpenCVTrace,"void __cdecl cv::flip(const class cv::_InputArray &,const class cv::_OutputArray &,int)",282800,1130300,323189.13580246916,130891600,405
+OpenCVTrace,"void __cdecl cv::cvtColor(const class cv::_InputArray &,const class cv::_OutputArray &,int,int)",57300,6914400,376483.86831275723,914855800,2430
+OpenCVTrace,"void __cdecl cv::resize(const class cv::_InputArray &,const class cv::_OutputArray &,class cv::Size_<int>,double,double,int)",88000,1145800,388734.48559670785,472312400,1215
+OpenCVTrace,"void __cdecl cv::Mat::convertTo(const class cv::_OutputArray &,int,double,double) const",3000,2432100,377700.0824402308,1374450600,3639
+OpenCVTrace,"void __cdecl cv::split(const class cv::_InputArray &,const class cv::_OutputArray &)",14700,1027600,216526.33744855967,263079500,1215
+OpenCVTrace,"void __cdecl cv::exp(const class cv::_InputArray &,const class cv::_OutputArray &)",56500,1622600,67429.38271604938,54617800,810
+OpenCVTrace,"void __cdecl cv::MatOp::divide(const class cv::MatExpr &,const class cv::MatExpr &,class cv::MatExpr &,double) const",11700,1368300,22446.913580246914,9091000,405
+OpenCVTrace,"void __cdecl cv::divide(const class cv::_InputArray &,const class cv::_InputArray &,const class cv::_OutputArray &,double,int)",9900,1645000,18850.864197530864,7634600,405
+OpenCVTrace,"void __cdecl cv::subtract(const class cv::_InputArray &,const class cv::_InputArray &,const class cv::_OutputArray &,const class cv::_InputArray &,int)",22300,3139000,33561.48148148148,13592400,405
+OpenCVTrace,"void __cdecl cv::min(const class cv::_InputArray &,const class cv::_InputArray &,const class cv::_OutputArray &)",20000,1387400,552165.4894671623,891195100,1614
+OpenCVTrace,"void __cdecl cv::max(const class cv::_InputArray &,const class cv::_InputArray &,const class cv::_OutputArray &)",19600,1184700,393160.59479553904,634561200,1614
+OpenCVTrace,void __cdecl cv::Mat::copyTo(const class cv::_OutputArray &) const,2000,1591900,464204.1975308642,1128016200,2430
+OpenCVTrace,"double __cdecl cv::threshold(const class cv::_InputArray &,const class cv::_OutputArray &,double,double,int)",11200,1344100,353363.85442514473,427216900,1209
+OpenCVTrace,"void __cdecl cv::findContours(const class cv::_InputArray &,const class cv::_OutputArray &,const class cv::_OutputArray &,int,int,class cv::Point_<int>)",21100,759000,34904.93827160494,14136500,405
+OpenCVTrace,"class cv::MatExpr __cdecl cv::Mat::zeros(class cv::Size_<int>,int)",200,11100,555.0617283950618,224800,405
+OpenCVTrace,class cv::Mat &__cdecl cv::Mat::operator =(const class cv::Scalar_<double> &),400,10300,524.6913580246913,212500,405
+OpenCVTrace,"double __cdecl cv::contourArea(const class cv::_InputArray &,bool)",100,12600,265.9727479182437,702700,2642
+OpenCVTrace,"void __cdecl cv::drawContours(const class cv::_InputOutputArray &,const class cv::_InputArray &,int,const class cv::Scalar_<double> &,int,int,const class cv::_InputArray &,int,class cv::Point_<int>)",700,842600,9250.03223726628,14346800,1551
+OpenCVTrace,"void __cdecl cv::morphologyEx(const class cv::_InputArray &,const class cv::_OutputArray &,int,const class cv::_InputArray &,class cv::Point_<int>,int,int,const class cv::Scalar_<double> &)",40000,1419000,47170.61728395062,19104100,405
+OpenCVTrace,"class cv::MatExpr __cdecl cv::Mat::mul(const class cv::_InputArray &,double) const",100,59400,553.5802469135803,448400,810
+OpenCVTrace,"void __cdecl cv::multiply(const class cv::_InputArray &,const class cv::_InputArray &,const class cv::_OutputArray &,double,int)",156600,1205700,256765.1851851852,207979800,810
+OpenCVTrace,"void __cdecl cv::MatOp_AddEx::multiply(const class cv::MatExpr &,double,class cv::MatExpr &) const",100,12500,338.0246913580247,136900,405
+OpenCVTrace,"void __cdecl cv::sqrt(const class cv::_InputArray &,const class cv::_OutputArray &)",87600,724900,92311.85185185185,37386300,405
+OpenCVTrace,"void __cdecl cv::max(const class cv::Mat &,const class cv::Mat &,class cv::Mat &)",212100,452900,258060.61728395062,209029100,810
+OpenCVTrace,"void __cdecl cv::bitwise_and(const class cv::_InputArray &,const class cv::_InputArray &,const class cv::_OutputArray &,const class cv::_InputArray &)",38300,1054100,54319.25925925926,21999300,405
+OpenCVTrace,"void __cdecl cv::blur(const class cv::_InputArray &,const class cv::_OutputArray &,class cv::Size_<int>,class cv::Point_<int>,int)",1544000,2345100,1660255.8024691357,672403600,405
+OpenCVTrace,"void __cdecl cv::inRange(const class cv::_InputArray &,const class cv::_InputArray &,const class cv::_InputArray &,const class cv::_OutputArray &)",174700,521600,221835.9670781893,269530700,1215
+OpenCVTrace,"void __cdecl cv::Mat::copyTo(const class cv::_OutputArray &,const class cv::_InputArray &) const",147900,411200,195022.63681592038,156798200,804
+OpenCVTrace,"class cv::Mat &__cdecl cv::Mat::setTo(const class cv::_InputArray &,const class cv::_InputArray &)",14800,618600,131706.09053497942,160022900,1215
+OpenCVTrace,"void __cdecl cv::merge(const class cv::_InputArray &,const class cv::_OutputArray &)",109700,786700,134861.4814814815,54618900,405
+OpenCVTrace,"void __cdecl cv::putText(const class cv::_InputOutputArray &,const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,class cv::Point_<int>,int,double,class cv::Scalar_<double>,int,int,bool)",77000,3282500,785111.1111111111,1271880000,1620
+OpenCVTrace,"void __cdecl cv::dilate(const class cv::_InputArray &,const class cv::_OutputArray &,const class cv::_InputArray &,class cv::Point_<int>,int,int,const class cv::Scalar_<double> &)",171400,1414900,212721.05263157896,84875700,399
+OpenCVTrace,"void __cdecl cv::erode(const class cv::_InputArray &,const class cv::_OutputArray &,const class cv::_InputArray &,class cv::Point_<int>,int,int,const class cv::Scalar_<double> &)",158300,395700,176548.6215538847,70442900,399
+OpenCVTrace,"void __cdecl cv::absdiff(const class cv::_InputArray &,const class cv::_InputArray &,const class cv::_OutputArray &)",41700,703500,74042.85714285714,29543100,399
+OpenCVTrace,"void __cdecl cv::MatOp::add(const class cv::MatExpr &,const class cv::MatExpr &,class cv::MatExpr &) const",100,10100,359.5238095238095,286900,798
+OpenCVTrace,"void __cdecl cv::addWeighted(const class cv::_InputArray &,double,const class cv::_InputArray &,double,double,const class cv::_OutputArray &,int)",696200,2730500,837120.9273182957,668022500,798
+tbb,tbb_parallel_for,1400,747700,31146.428571428572,872100,28

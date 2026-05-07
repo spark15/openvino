@@ -1,0 +1,3 @@
+domain,name,min,max,avg,total,count
+OpenCVTrace,"void __cdecl cv::utils::logging::LogTagManager::assign(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,struct cv::utils::logging::LogTag *)",17300,17300,17300.0,17300,1
+OpenCVTrace,"struct cv::utils::logging::LogTag *__cdecl cv::utils::logging::LogTagManager::get(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)",1900,1900,1900.0,1900,1

@@ -36,7 +36,7 @@ cmake .. ^
    -DENABLE_FASTER_BUILD=ON ^
    -DSELECTIVE_BUILD=ON ^
    -DENABLE_PROFILING_ITT=OFF ^
-   -DSELECTIVE_BUILD_STAT="%~dp0\openvino_2026_1_collect\stats\*.csv" ^
+   -DSELECTIVE_BUILD_STAT="..\stats\*.csv" ^
    -DBUILD_SHARED_LIBS=ON ^
    -DENABLE_ONEDNN_FOR_GPU=OFF
 
